@@ -12,3 +12,6 @@ Prototyping](https://www.youtube.com/watch?v=DGn7BcFGigc)
 
 - Live version of app is 
 [here](https://cspablocortez.github.io/Time2Talk)
+
+- [Canva 
+Protoype](https://www.canva.com/design/DAGREKH803I/gXUIJrzt_bLMEEX6fC5kAw/edit)
