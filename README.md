@@ -2,6 +2,8 @@
 
 Time2Talk is a meeting scheduling software.
 
+Here is a small update.
+
 Important notes:
 
 - [Device 
